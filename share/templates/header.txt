@@ -1,0 +1,5 @@
+<!--
+  (c) 2023, Stefan Hagen <stefan@hagen.link>
+  Licensed under the MIT license
+  <https://git.sr.ht/~sthagen/keskustelua/blob/default/LICENSE>
+-->
